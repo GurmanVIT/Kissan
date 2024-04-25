@@ -62,5 +62,4 @@ const CreateMultiWallet = () => {
     </Wrap>
   );
 };
-
 export { CreateMultiWallet };
